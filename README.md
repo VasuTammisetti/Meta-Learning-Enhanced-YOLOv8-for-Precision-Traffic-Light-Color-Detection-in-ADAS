@@ -36,8 +36,23 @@ Bounding boxes are critical for deep neural networks in object detection, partic
 
 Bounding boxes also provide interpretable outputs that visually demonstrate the detected objects' locations, vital for tasks requiring precise localization. They are used in region of interest (ROI) pooling to ensure the network focuses on pertinent object areas during feature extraction and classification. In meta-learning scenarios, bounding box annotations allow pre-trained models to be fine-tuned with new data, enhancing performance on specialized detection tasks. In the domain of object recognition, traditional labeling methods, such as labeling the entire housing of a traffic light, often face limitations, particularly in adverse weather conditions. A novel labeling method focuses on the color components of traffic lights, improving model robustness and effectiveness by minimizing dependence on extraneous features. By refining annotations to exclude irrelevant parts, computational efficiency is enhanced, speeding up the inference process. Manual labeling of 315 images ensured focus on salient features, crucial for applications in traffic management and autonomous vehicle navigation.
 
-![image](https://github.com/user-attachments/assets/86433525-46a3-4cf7-a9cc-3a8a49e99e22)                       ![labltargetmethod](https://github.com/user-attachments/assets/aa4838e8-7d00-4379-b2e9-3b550a18eff5)
-Conventional labelling where bounding box covers entire traffic light in which 2/3 of object                     Targeted labeling which mainly focusing on the illuminating regions which can have
-highest impact on learning.                                                                                       area does not impact learning process.
+![image](https://github.com/user-attachments/assets/9a70e057-29f6-467d-8a29-1a7ec6e12172)
+Conventional labelling where bounding box covers entire traffic light in which 2/3 of object
+area does not impact learning process.
+
+
+![labltargetmethod](https://github.com/user-attachments/assets/bab97a36-ec8d-4c71-81ea-d90fac2315e7)
+Targeted labeling which mainly focusing on the illuminating regions which can have
+highest impact on learning.
+
+##Results
+![image](https://github.com/user-attachments/assets/90f14931-baa1-4a67-8e47-471c24c9feec)
+
+![image](https://github.com/user-attachments/assets/39207c75-dd46-4d7f-8886-04841d89c5e0)
+
+![image](https://github.com/user-attachments/assets/5a10338b-fa65-41d1-8b0e-8ee421475850)
+
+
+
 
 
