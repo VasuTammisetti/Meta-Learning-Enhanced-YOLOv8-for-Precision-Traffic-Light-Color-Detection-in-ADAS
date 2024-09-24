@@ -62,6 +62,21 @@ highest impact on learning.
 ![image](https://github.com/user-attachments/assets/5a10338b-fa65-41d1-8b0e-8ee421475850)
 
 
+## Citation
 
+```
+[http://arxiv.org/abs/2008.12284](https://ieeexplore.ieee.org/document/10533619)
+
+```
+
+```
+[[http://arxiv.org/abs/2008.12284](https://ieeexplore.ieee.org/document/10533619)](https://proceedings.mlr.press/v70/finn17a.html)
+
+```
+
+```
+[[http://arxiv.org/abs/2008.12284](https://ieeexplore.ieee.org/document/10533619)](https://proceedings.mlr.press/v70/finn17a.html)](https://www.mdpi.com/2079-9292/13/14/2771)
+
+```
 
 
