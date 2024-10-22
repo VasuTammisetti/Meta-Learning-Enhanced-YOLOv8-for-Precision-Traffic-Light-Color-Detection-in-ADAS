@@ -30,6 +30,7 @@ CARLA: {https://www.kaggle.com/datasets/sachsene/carla-traffic-lights-images},  
 LISA: {https://www.kaggle.com/datasets/mbornoe/lisa-traffic-light-dataset/code}, (accessed on 10-07-2023), 
 CityScapes: {https://www.cityscapes-dataset.com/login/}}, (accessed on 1-12-2023), 
 Eurocity :{https://eurocity-dataset.tudelft.nl/eval/user/login?_next=/eval/downloads/detection}
+The dataset can be found at:{https://zenodo.org/me/uploads?q=&l=list&p=1&s=10&sort=newest}
 
 ##Labelin
 Bounding boxes are critical for deep neural networks in object detection, particularly in YOLO, as they provide essential spatial localization information that enhances the network's ability to identify and outline object boundaries within an image. They are crucial for tasks like pinpointing pedestrian locations for autonomous driving and isolating objects in complex scenes. Bounding boxes serve as annotations in training data, helping the network associate visual features with spatial coordinates and object identification. During training, bounding boxes define the loss function, allowing the network to refine its predictions to match ground truth annotations and improve localization precision. The inclusion of an "objectness score" indicates the probability of an object's presence, aiding in distinguishing relevant objects from background noise. Techniques like non-maximum suppression further refine detection by removing redundant and overlapping boxes, thus improving accuracy.
