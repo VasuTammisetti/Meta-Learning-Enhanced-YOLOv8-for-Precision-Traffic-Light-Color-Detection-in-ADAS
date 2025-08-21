@@ -30,7 +30,7 @@ CARLA: {https://www.kaggle.com/datasets/sachsene/carla-traffic-lights-images},  
 LISA: {https://www.kaggle.com/datasets/mbornoe/lisa-traffic-light-dataset/code}, (accessed on 10-07-2023), 
 CityScapes: {https://www.cityscapes-dataset.com/login/}}, (accessed on 1-12-2023), 
 Eurocity :{https://eurocity-dataset.tudelft.nl/eval/user/login?_next=/eval/downloads/detection}
-The dataset can be found at:{https://zenodo.org}
+The dataset can be found at:{[https://zenodo.org](https://zenodo.org/records/13969232)}
 with a title'
 December 31, 2024 (v1)PublicationOpen
 Meta-YOLOv8: Meta-Learning-Enhanced YOLOv8 for Precise Traffic Light Color Detection in ADAS'
